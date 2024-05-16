@@ -1,12 +1,18 @@
 ### Hi there 👋
 
+My name is michaelchristopher-ui
+
+- 🔭 I’m currently working on some portfolio projects with Go
+- 🌱 I’m currently learning Web3 (In particular, Solidity)
+- 👯 I’m looking to collaborate on projects written in Go
+- 📫 How to reach me: manullang.c@gmail.com
 <!--
 **michaelchristopher-ui/michaelchristopher-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web3
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
